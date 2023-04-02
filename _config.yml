@@ -4,5 +4,5 @@ theme: minima
 show_excerpts: true
 
 minima:
-  menu-items:
-    readme.md
+  header_pages:
+    - about.md
